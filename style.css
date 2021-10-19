@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+body {
+  display: grid;
+  place-items: center;
+}
+
+a {
+  color: lightgray;
+  text-decoration: none;
+}
