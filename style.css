@@ -32,7 +32,7 @@ main {
   max-width: 375px;
   max-height: 812px;
   background: #202024;
-  
+  overflow: hidden;
 }
 
 main .circle-gradient-one {
